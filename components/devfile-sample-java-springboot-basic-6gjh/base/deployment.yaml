@@ -10,7 +10,7 @@ metadata:
     app.kubernetes.io/part-of: my-app-4
   name: devfile-sample-java-springboot-basic-6gjh
 spec:
-  replicas: 1
+  replicas: 0
   revisionHistoryLimit: 0
   selector:
     matchLabels:
